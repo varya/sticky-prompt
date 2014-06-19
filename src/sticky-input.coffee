@@ -2,5 +2,9 @@ prompt = require 'prompt'
 
 prompt.start()
 
-prompt.get ['command'], ()->
-  console.log 'I got it'
+getInput = ()->
+  prompt.get ['continue? [Y/n] '], (err, result)->
+    console.log 'I got it'
+    console.log result§
+
+getInput()
