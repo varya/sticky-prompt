@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "coffee-script": "1.6.3",
+    "charm": "0.2.0",
     "prompt": "0.2.11"
   },
   "devDependencies": {
