@@ -1,0 +1,17 @@
+{
+  "name": "sticky-input",
+  "version": "0.0.1",
+  "author": "Varya Stepanova <mail@varya.me>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/varya/sticky-input.git"
+  },
+  "engines": {
+    "node": ">=0.10.17",
+    "npm": ">=1.3.8"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
