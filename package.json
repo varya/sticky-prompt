@@ -1,10 +1,11 @@
 {
-  "name": "sticky-input",
-  "version": "0.0.1",
+  "name": "sticky-prompt",
+  "description": "Sticky prompt for node.js command line applications",
+  "version": "0.1.0",
   "author": "Varya Stepanova <mail@varya.me>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/varya/sticky-input.git"
+    "url": "git://github.com/varya/sticky-prompt.git"
   },
   "engines": {
     "node": ">=0.10.17",
@@ -16,5 +17,6 @@
     "prompt": "0.2.11"
   },
   "devDependencies": {
-  }
+  },
+  "main": "./lib/sticky-prompt"
 }
